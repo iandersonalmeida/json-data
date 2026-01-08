@@ -1,0 +1,19 @@
+[
+    {
+        "id": 1,
+        "dish": "Feijão Tropeiro"
+    },
+    
+    {
+        "id": 2,
+        "dish": "Bolo de Milho"
+    },
+     {
+        "id": 3,
+        "dish": "Couscous Salad"
+    },
+     {
+        "id": 4,
+        "dish": "Bratkartoffeln"
+    }
+]
